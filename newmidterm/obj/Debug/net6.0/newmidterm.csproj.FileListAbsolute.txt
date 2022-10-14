@@ -1,0 +1,15 @@
+D:\programming\newmidterm\obj\Debug\net6.0\newmidterm.csproj.AssemblyReference.cache
+D:\programming\newmidterm\obj\Debug\net6.0\newmidterm.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\newmidterm\obj\Debug\net6.0\newmidterm.AssemblyInfoInputs.cache
+D:\programming\newmidterm\obj\Debug\net6.0\newmidterm.AssemblyInfo.cs
+D:\programming\newmidterm\obj\Debug\net6.0\newmidterm.csproj.CoreCompileInputs.cache
+D:\programming\newmidterm\bin\Debug\net6.0\newmidterm.exe
+D:\programming\newmidterm\bin\Debug\net6.0\newmidterm.deps.json
+D:\programming\newmidterm\bin\Debug\net6.0\newmidterm.runtimeconfig.json
+D:\programming\newmidterm\bin\Debug\net6.0\newmidterm.dll
+D:\programming\newmidterm\bin\Debug\net6.0\newmidterm.pdb
+D:\programming\newmidterm\obj\Debug\net6.0\newmidterm.dll
+D:\programming\newmidterm\obj\Debug\net6.0\refint\newmidterm.dll
+D:\programming\newmidterm\obj\Debug\net6.0\newmidterm.pdb
+D:\programming\newmidterm\obj\Debug\net6.0\newmidterm.genruntimeconfig.cache
+D:\programming\newmidterm\obj\Debug\net6.0\ref\newmidterm.dll
